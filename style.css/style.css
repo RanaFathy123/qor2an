@@ -1,0 +1,11 @@
+body{
+    background-image: url(../images/top-view-quran-opened-table.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+.bottom-row {
+    border-radius: 20px; 
+    overflow: hidden; 
+    border: 4px solid black;
+}
